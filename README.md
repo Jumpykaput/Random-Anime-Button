@@ -9,4 +9,4 @@ This is a random anime and manga button for Anilist.co.
 
 
 
-Alternatively for an easier time installing my userscript, heres a link to my greasyfork page https://greasyfork.org/en/scripts/556594-random-anime-button
+Alternatively for an easier time installing my userscript, you can install it from my greasyfork page: https://greasyfork.org/en/scripts/556594-random-anime-button
