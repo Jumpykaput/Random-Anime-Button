@@ -1,5 +1,7 @@
 # Random-Anime-Button
-This is a random anime and manga button for Anilist.co. 
+This is very simple random anime and manga button for Anilist.co. 
+
+
 *How to use*
 - Step one, Install the Tampermonkey/Greasemoney script on either Chrome or Firefox
 - Step two,  Download the .JS file from the Github page
